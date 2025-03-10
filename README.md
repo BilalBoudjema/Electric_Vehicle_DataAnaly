@@ -1,5 +1,7 @@
 # Electric Vehicle Data Analysis
 
+![Main Dashboard](images/Main%20Dashboard.png)
+
 ## 📊 Project Overview
 This project focuses on analyzing electric vehicle (EV) data to provide insights into the market size, technological advancements, and adoption trends. Using Tableau for visualization and Excel for data preprocessing, the project highlights key performance indicators (KPIs) to understand the distribution and growth of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
 
