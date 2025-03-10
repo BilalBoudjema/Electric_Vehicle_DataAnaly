@@ -74,7 +74,7 @@ The goal of this project is to:
 
 For any questions or collaboration inquiries, feel free to reach out:
 
-- **Name**: Boudjema
+- **Name**: Boudjema Bilal
 - **Email**: pro.bilal.boudjema@gmail.com
 - **Phone**: 07 52 05 14 55
 
